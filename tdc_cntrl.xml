@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<node id="TOP">
+    <node id="WRITE" address="0x0" permission="rw" >
+        <node id="CNTVALUEIN_0"  mask="0x0000001F" permission="rw" />
+        <node id="CNTVALUEIN_1"  mask="0x000003E0" permission="rw" />
+        <node id="LD_0"          mask="0x00000400" permission="rw" />
+        <node id="LD_1"          mask="0x00000800" permission="rw" />
+        <node id="EN"            mask="0x00001000" permission="rw" />
+        <node id="MODE"          mask="0x00006000" permission="rw" />
+    </node>
+</node>
