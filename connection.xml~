@@ -1,5 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-
-<connections>
-	 <connection id="iftdc" uri="ipbusudp-2.0://10.16.6.40:50001" address_table="file://iftdc_address.xml" />
-</connections>
